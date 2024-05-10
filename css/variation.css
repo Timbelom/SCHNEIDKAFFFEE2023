@@ -1,0 +1,31 @@
+
+
+/* Button styling */
+#snackys-tpl .btn-special {
+    background-color: #c4c4c4; /* Initial background color */
+    color: #3F302B; /* Text color */
+    border: 3px#3F302B; /* No border */
+    padding: 10px 20px; /* Padding for a larger click area */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+    border-radius: 12px
+}
+
+#snackys-tpl .btn-special:hover, .btn-special:focus{
+    background-color: #3F302B; /* Darker blue on hover/focus */
+    color :#ffffff;
+    cursor: pointer; /* Cursor changes to pointer to indicate clickable */
+}
+
+/* Dropdown styling */
+#snackys-tpl .form-control {
+    padding: 10px; /* Padding inside the dropdown */
+    
+}
+
+@media (min-width: 1024px) {
+    .hide-on-desktop {
+        display: none;
+    }
+}
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Template isFullResponsive="true">
+    <Name>SCHNEIDKAFFFEE2023 (Snackys)</Name>
+    <Author>Knoell Marketing</Author>
+    <URL>https://www.knoell-marketing.de</URL>
+    <Parent>Snackys</Parent>
+    <Preview>preview.png</Preview>
+    <Version>1.1.1</Version>
+    <MinShopVersion>5.2.0</MinShopVersion>
+    <Description>Child (Snackys Version 5.1.6)</Description>
+	<CSSPageTypes>
+		<File Path="/templates/SCHNEIDKAFFFEE2023/css/main.css" PageType="all"/>
+		<File Path="/templates/SCHNEIDKAFFFEE2023/css/details.css" PageType="1"/>
+		<File Path="/templates/SCHNEIDKAFFFEE2023/css/variation.css" PageType="1"/>
+        <File Path="/templates/SCHNEIDKAFFFEE2023/css/listing.css" PageType="2"/>
+	</CSSPageTypes>
+   
+</Template>

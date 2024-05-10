@@ -1,0 +1,35 @@
+#snackys-tpl .btn-textswatches{ /*productdetails/variations.tpl */ 
+    width: 30%; 
+    height: 50px; 
+    line-height: 30px; 
+    font-size: 20px; 
+    display: inline-block; 
+    font-weight: bold; 
+    text-align: center; 
+    margin: 0 1.5%;
+}
+.info-essential{            /*productdetails/details.tpl */ 
+    padding-bottom: 0; 
+    margin-bottom: 0;
+}
+.shortdesc{                 /*productdetails/details.tpl */ 
+    display: inline-block;
+    width: 45%; 
+    padding: 0; 
+    margin-top:0; 
+    margin-right: 1%;
+    margin-left: 1%;
+    vertical-align: top;
+
+}
+.shortdesc + .as-fs{        /*productdetails/details.tpl */ 
+    display: inline-block; 
+    width: 45%;
+    vertical-align: top;
+    text-align: right;
+}
+
+#snackys-tpl .price-row{    /*productdetails/price.tpl */ 
+    font-weight: bold; 
+    font-size: 2.2em;
+}
